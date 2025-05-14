@@ -79,7 +79,7 @@ Have ideas or want to add more practice questions? Feel free to:
 
 ## 🙌 Credits
 
-Created with ❤️ for learners by \KUNJ.
+Created with ❤️ for learners by KUNJ.
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
