@@ -32,8 +32,8 @@ This script introduces core Python concepts such as:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/python-file-manager.git
-   cd python-file-manager
+   git clone https://github.com/kunjjarsaniya/python.git
+   cd file_handling_project
    ```
 
 2. **Run the script:**
@@ -115,7 +115,7 @@ To expand this tutorial, try implementing these enhancements:
 
 ## 👨‍🏫 About the Author
 
-Created by **KUNJ**  
-Contributions and suggestions are welcome! Fork this project or open an issue to collaborate.
+Created by `KUNJ` 
+Contributions and sugestions are welcome! Fork this project or open an issue to collaborate.
 
 ---
