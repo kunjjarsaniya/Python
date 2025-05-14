@@ -52,8 +52,8 @@ Learn by doing with perfectly structured, step-by-step code files:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/python-learning-tutorial.git
-cd python-learning-tutorial
+git clone https://github.com/kunjjarsaniya/python.git
+cd python
 ```
 
 2. Run the tutorial:
